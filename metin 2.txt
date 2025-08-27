@@ -1,0 +1,28 @@
+ 
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lossx1337 - Profil</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="profile-container">
+        <div class="profile">
+            <img src="profile.jpg" alt="Profil Resmi" class="profile-image">
+            <div class="profile-info">
+                <h1>Lossx1337</h1>
+                <p>kralından yemez.</p>
+                <div class="social-links">
+                    <a href="https://instagram.com" target="_blank">Instagram</a>
+                    <a href="https://tiktok.com" target="_blank">TikTok</a>
+                    <a href="https://telegram.org" target="_blank">Telegram</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
